@@ -1,3 +1,7 @@
+@font-face {
+   font-family:minecraft;
+   scr:url(`minecraft`);
+}
    /* База */
 body {
     margin: 0;
