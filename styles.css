@@ -1,6 +1,6 @@
 @font-face {
    font-family:Minecraft Rus;
-   scr:url(`minecraft.ttf`);
+   src:url(`minecraft.ttf`);
 }
    /* База */
 body {
